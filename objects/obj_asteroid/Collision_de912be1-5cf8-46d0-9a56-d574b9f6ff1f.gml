@@ -11,7 +11,7 @@ if global.invincibility==false
 			audio_pause_sound(snd_music);
 			audio_pause_sound(snd_low_health);
 			audio_pause_sound(snd_spaceship_engine_superior);*/
-			room_goto(r_lose)}
+			instance_destroy(o_ship)}
 	global.shipHealth-=1
 	
 instance_destroy(self)
