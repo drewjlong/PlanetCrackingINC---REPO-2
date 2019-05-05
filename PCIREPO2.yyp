@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "36beb0c8-ae5b-40dd-978a-dc81a5877d95",
+            "Value": {
+                "id": "6cfb4eb4-56a6-4807-9516-1ddb74e5926e",
+                "resourcePath": "objects\\obj_gameRestart\\obj_gameRestart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ab3c2b4-7bb7-4e2e-ab8c-90989e1fedfc",
             "Value": {
                 "id": "30ce845f-528c-4e16-8eab-b202b483adb1",
