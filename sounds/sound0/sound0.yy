@@ -1,8 +1,8 @@
 {
-    "id": "0eea720e-413e-4a7b-8bea-4429d154744d",
+    "id": "37c71c61-6e98-416e-8206-c75cd40bdd95",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_better_crack",
+    "name": "sound0",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
