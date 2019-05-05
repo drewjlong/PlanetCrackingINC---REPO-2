@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "17cb9962-a772-47b2-87d6-a38bc60face2",
+            "Value": {
+                "id": "1af4b2f6-8111-48b6-b395-ee8b54044cce",
+                "resourcePath": "objects\\obj_score1\\obj_score1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1837308e-5ebd-4eea-9b20-86838e96adbd",
             "Value": {
                 "id": "9fb93230-1c7d-47f5-be4c-dd7bc7e7f866",
@@ -123,6 +131,14 @@
             "Value": {
                 "id": "0e7f8b5c-3a48-4a70-9465-4dec2bd68b0b",
                 "resourcePath": "objects\\obj_shield\\obj_shield.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ef10cd8-b08f-4135-8e41-28680b108388",
+            "Value": {
+                "id": "20d38ae1-3448-43ba-8f96-5dc8eb269787",
+                "resourcePath": "objects\\obj_minigame\\obj_minigame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -543,10 +559,26 @@
             }
         },
         {
+            "Key": "9d919c8f-d692-452b-bef0-552e4e0a3b5c",
+            "Value": {
+                "id": "f2ef131a-1bf6-4e50-8546-116d3eddc8ae",
+                "resourcePath": "objects\\obj_score3\\obj_score3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9f638746-4f36-4bcf-9af7-eef837311fe5",
             "Value": {
                 "id": "1ef5f1cc-57d9-4e9c-becf-f3f5c787bc56",
                 "resourcePath": "objects\\obj_shieldPowerup\\obj_shieldPowerup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a218a8c5-7c40-443e-b052-2eb2428df135",
+            "Value": {
+                "id": "a574c456-80e6-4355-8310-4c9718320e61",
+                "resourcePath": "objects\\obj_score2\\obj_score2.yy",
                 "resourceType": "GMObject"
             }
         },
