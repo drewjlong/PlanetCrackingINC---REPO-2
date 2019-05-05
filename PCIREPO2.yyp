@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "16f3ad1c-abc1-4ff2-a06b-dced887f864f",
+            "Value": {
+                "id": "723cf537-d2b6-43b9-a3d2-e713737734c1",
+                "resourcePath": "fonts\\f_minigame\\f_minigame.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "17cb9962-a772-47b2-87d6-a38bc60face2",
             "Value": {
                 "id": "1af4b2f6-8111-48b6-b395-ee8b54044cce",
@@ -188,6 +196,14 @@
                 "id": "78a8d9a6-44ca-49a1-aecd-faa6414671e2",
                 "resourcePath": "objects\\obj_health3\\obj_health3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2dcb3aed-2941-4213-992d-70ad7b1c77f0",
+            "Value": {
+                "id": "312f1fe7-769c-41cc-8f65-fced7edf7702",
+                "resourcePath": "sprites\\spr_planet\\spr_planet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -842,7 +858,7 @@
             "Key": "fb5084f9-5949-418f-8498-e0f126a4500b",
             "Value": {
                 "id": "51b4a16e-faec-49e2-954d-56d41dc83b1b",
-                "resourcePath": "sprites\\spr_planet\\spr_planet.yy",
+                "resourcePath": "sprites\\spr_planet2\\spr_planet2.yy",
                 "resourceType": "GMSprite"
             }
         },
