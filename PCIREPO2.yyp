@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "209269fb-f6f7-420e-8ae1-b5610023cb90",
+            "Value": {
+                "id": "041f42dd-d51b-4d85-ac34-5c5d19b5929e",
+                "resourcePath": "sounds\\snd_you_win2\\snd_you_win2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "22631481-c9d5-4630-9bc3-354275cba1b3",
             "Value": {
                 "id": "8638951e-e2f9-4916-a75b-a8123aa008a8",
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "58ba9481-75f2-4bde-a6a1-994c755aa18d",
+            "Value": {
+                "id": "0f2f5974-58ae-40c5-8b23-f67f17795bc4",
+                "resourcePath": "sounds\\snd_music2\\snd_music2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "58f3fb4e-064a-480f-8a49-ae0ffe69868b",
             "Value": {
                 "id": "e6b9abf1-7944-4d79-8b3f-5499eca44877",
@@ -455,6 +471,14 @@
             }
         },
         {
+            "Key": "75f002e1-8da7-4c09-9319-a761a11b8d07",
+            "Value": {
+                "id": "6907fe0f-36fe-480f-8793-242618dbc836",
+                "resourcePath": "sounds\\snd_you_lose2\\snd_you_lose2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "76ee679e-a8f0-483c-831b-8e099ad450fe",
             "Value": {
                 "id": "1b990d6a-2c22-4bf1-87ca-c18b914751fa",
@@ -532,6 +556,14 @@
                 "id": "bc8f02cf-c475-40ae-b894-f76181e07273",
                 "resourcePath": "objects\\obj_timer\\obj_timer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9557dfc3-ce8b-4bb9-a7ee-ada4a47ed38e",
+            "Value": {
+                "id": "01263c0d-39cb-499c-b218-51fcf69612bc",
+                "resourcePath": "sounds\\snd_intro2\\snd_intro2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -636,6 +668,14 @@
                 "id": "d85bfc7e-e1e6-4889-a23e-1e8503a90275",
                 "resourcePath": "views\\aba07bf3-df87-4533-a99d-f8623d1dc8fe.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af5d4663-9735-48a7-a133-b8be943d844a",
+            "Value": {
+                "id": "55de0bec-c7c7-46ec-b14c-bd3436e51a88",
+                "resourcePath": "objects\\obj_you_lose\\obj_you_lose.yy",
+                "resourceType": "GMObject"
             }
         },
         {
