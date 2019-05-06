@@ -10,4 +10,5 @@ if(held == true && other.alreadyCollidedPlanet == false && other.hasPlanet = fal
 	other.alreadyCollidedPlanet = true
 	other.hasPlanet = true
 	lastPlanet.alreadyCollided = false
+	audio_play_sound(snd_ufograb2,6,0)
 }
