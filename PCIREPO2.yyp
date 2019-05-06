@@ -151,11 +151,11 @@
             }
         },
         {
-            "Key": "20325192-f69d-45e4-8907-48485bdc9514",
+            "Key": "1f0c5b3f-6256-4af2-8efa-b2ec253954f9",
             "Value": {
-                "id": "39877bbe-9f1f-4395-9f7c-6654747ac90f",
-                "resourcePath": "sprites\\spr_snexplosion\\spr_snexplosion.yy",
-                "resourceType": "GMSprite"
+                "id": "f3cfa890-8254-4f90-b626-37fa33705299",
+                "resourcePath": "objects\\o_planetShrink\\o_planetShrink.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "2a642ed8-f525-4fb3-8647-85e45216fdc8",
+            "Value": {
+                "id": "38cc0049-c211-41e3-ab6a-827b11b7e9d3",
+                "resourcePath": "sprites\\spr_shieldFinal\\spr_shieldFinal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d5547ff-1cc1-407d-a6c8-6645b4051b7f",
             "Value": {
                 "id": "78a8d9a6-44ca-49a1-aecd-faa6414671e2",
@@ -231,10 +239,10 @@
             }
         },
         {
-            "Key": "2dcb3aed-2941-4213-992d-70ad7b1c77f0",
+            "Key": "2e66412c-25aa-42b9-93aa-0fcf5affd93f",
             "Value": {
-                "id": "312f1fe7-769c-41cc-8f65-fced7edf7702",
-                "resourcePath": "sprites\\spr_planet\\spr_planet.yy",
+                "id": "e86c3a05-b7ce-4f19-9968-dc1a15198449",
+                "resourcePath": "sprites\\spr_satelliteAnim\\spr_satelliteAnim.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -559,19 +567,19 @@
             }
         },
         {
-            "Key": "7a9c77bd-d880-4051-a193-b20d67ba00d3",
-            "Value": {
-                "id": "09eaffb6-30a5-4511-8aa6-e47d46f24c39",
-                "resourcePath": "sprites\\spr_supernova\\spr_supernova.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7b16ac97-7ebf-450b-9684-36a057c933e3",
             "Value": {
                 "id": "3e5cb3b6-6097-4d4d-89de-ea1e70ab7438",
                 "resourcePath": "sounds\\snd_lowhealth2\\snd_lowhealth2.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7e973da4-2a4f-4456-bcb8-b7a5c21906d7",
+            "Value": {
+                "id": "0330dbde-1e05-4342-bfd5-5a5c1b0f88e7",
+                "resourcePath": "sprites\\spr_satellite\\spr_satellite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -604,6 +612,22 @@
                 "id": "0c221492-4b52-4824-82ba-86fae963a21d",
                 "resourcePath": "objects\\obj_satellite\\obj_satellite.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8cd9b1b3-85f4-4db0-a9b9-f3e7367cef3f",
+            "Value": {
+                "id": "9a3b00c1-7ea0-4e5f-8c98-12e37ce63496",
+                "resourcePath": "sprites\\spr_comet\\spr_comet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e746022-7262-4d3a-9d2c-58b266f0b809",
+            "Value": {
+                "id": "39bbda81-277f-4421-bee5-e06877f135f1",
+                "resourcePath": "sprites\\spr_planetShrink\\spr_planetShrink.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -807,6 +831,14 @@
             }
         },
         {
+            "Key": "c49a1b59-9ac9-4c42-b31e-507fc4320c15",
+            "Value": {
+                "id": "a151b082-e717-49ae-a228-108e2da096f8",
+                "resourcePath": "sprites\\spr_planetPickup\\spr_planetPickup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c4b12416-6fb2-4785-b356-1d0371d3393a",
             "Value": {
                 "id": "f2f61af4-5eee-434a-bf7b-5b6ecde1aee5",
@@ -959,6 +991,14 @@
             }
         },
         {
+            "Key": "ea9a7d1d-dbd7-4170-8fd3-1fe7826700d6",
+            "Value": {
+                "id": "3372dd46-f4ea-4ef1-8603-885f58e4fc2c",
+                "resourcePath": "sprites\\spr_snExplosionFinal\\spr_snExplosionFinal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eada7f3c-86dd-4336-933f-a9bddb5fac42",
             "Value": {
                 "id": "a0807a5d-b2e5-48bd-835f-c587454bb575",
@@ -1031,10 +1071,10 @@
             }
         },
         {
-            "Key": "fb5084f9-5949-418f-8498-e0f126a4500b",
+            "Key": "fb54d5e5-e379-4fb7-89b6-a534109a294b",
             "Value": {
-                "id": "51b4a16e-faec-49e2-954d-56d41dc83b1b",
-                "resourcePath": "sprites\\spr_planet2\\spr_planet2.yy",
+                "id": "e90a811a-2b08-4a7c-ac98-3054499205b5",
+                "resourcePath": "sprites\\spr_supernovaFinal\\spr_supernovaFinal.yy",
                 "resourceType": "GMSprite"
             }
         },

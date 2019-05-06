@@ -4,3 +4,4 @@ if(bbox_right < 0 or
 	bbox_top > room_height) {
 		instance_destroy();
 }
+image_angle = direction
