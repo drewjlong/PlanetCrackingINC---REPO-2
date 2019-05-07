@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "1d706806-9bba-4b92-9e8c-b76dc9462c66",
+            "Value": {
+                "id": "7dd36a71-47d0-4902-bf44-816fd5fc5f3f",
+                "resourcePath": "sprites\\spr_powerupShrink\\spr_powerupShrink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e682006-958d-4f5b-b1e8-dc289f6ed508",
             "Value": {
                 "id": "0e7f8b5c-3a48-4a70-9465-4dec2bd68b0b",
@@ -1207,6 +1215,14 @@
             }
         },
         {
+            "Key": "e9008b79-de9a-4942-a3f3-158799095d71",
+            "Value": {
+                "id": "ef5506b3-be01-4836-8864-b9dc5088eefa",
+                "resourcePath": "objects\\o_powerupShrink\\o_powerupShrink.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eada7f3c-86dd-4336-933f-a9bddb5fac42",
             "Value": {
                 "id": "a0807a5d-b2e5-48bd-835f-c587454bb575",
@@ -1243,6 +1259,14 @@
             "Value": {
                 "id": "a42384de-4ea2-4a82-9167-4cabef42b4ac",
                 "resourcePath": "objects\\obj_cometspawner\\obj_cometspawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3ebcb7f-4b78-4671-90f4-81a7b4378bf7",
+            "Value": {
+                "id": "3801b873-b239-4065-a29a-7b2b63f5c100",
+                "resourcePath": "objects\\obj_shrinkSpawner\\obj_shrinkSpawner.yy",
                 "resourceType": "GMObject"
             }
         },
