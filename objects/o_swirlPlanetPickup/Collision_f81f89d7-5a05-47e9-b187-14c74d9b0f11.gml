@@ -10,5 +10,5 @@ if (alreadyCollided == false){
 	ds_list_add(o_ship.heldPlanetList,id);
 	audio_play_sound(snd_planet_pickup,1,0);
 	alreadyCollided = true
-	room_instance_add(r_win,300,475,obj_score3);
+	global.planet3held += 1;
 }

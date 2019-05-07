@@ -9,4 +9,3 @@ if(held == true){
 } else {
 	instance_destroy();
 }
-
