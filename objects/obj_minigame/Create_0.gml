@@ -3,7 +3,10 @@
 score = 0;
 audio_pause_sound(snd_music2);
 audio_play_sound(snd_you_win2,1,0);
+audio_pause_sound(snd_blackhole_idle);
 audio_pause_sound(snd_spaceship_engine);
+audio_pause_sound(snd_comet);
+
 
 show_debug_message("test scores:")
 show_debug_message(global.planet1held)
@@ -14,10 +17,10 @@ for (i = 0; i < global.planet1held; i++){
 	instance_create_layer(350 + random_range(50,600),325,"Instances",obj_score1);
 }
 for (i = 0; i < global.planet2held; i++){
-	instance_create_layer(350 + random_range(50,600),325,"Instances",obj_score2);
+	instance_create_layer(350 + random_range(50,600),390,"Instances",obj_score2);
 }
 for (i = 0; i < global.planet3held; i++){
-	instance_create_layer(350 + random_range(50,600),325,"Instances",obj_score3);
+	instance_create_layer(350 + random_range(50,600),500,"Instances",obj_score3);
 }
 /*
 if global.planet1held >= 2{

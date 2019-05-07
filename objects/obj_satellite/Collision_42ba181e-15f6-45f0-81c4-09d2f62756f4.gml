@@ -8,5 +8,5 @@ if global.invincibility==false
 		{ audio_pause_sound(snd_lowhealth2);
 			instance_destroy(o_ship)}
 	global.shipHealth-=1
-
+audio_pause_sound(snd_sate);
 instance_destroy();

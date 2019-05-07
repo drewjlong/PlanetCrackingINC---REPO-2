@@ -4,3 +4,4 @@ if(x == 0) {
 	direction = 180;
 }
 speed = 2;
+audio_play_sound(snd_sate,8,10);

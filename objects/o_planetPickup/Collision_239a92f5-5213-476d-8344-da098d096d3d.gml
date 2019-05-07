@@ -8,4 +8,5 @@ if(held == true){
 	audio_play_sound(snd_hit2,1,0);
 } else {
 	instance_destroy();
+	audio_play_sound(snd_collide,4,0);
 }

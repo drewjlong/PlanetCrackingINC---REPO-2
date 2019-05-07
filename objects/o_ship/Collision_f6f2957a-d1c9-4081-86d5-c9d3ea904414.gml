@@ -6,3 +6,4 @@ instance_destroy(o_brownPlanetPickup)
 instance_destroy(o_planetPickup)
 instance_destroy(obj_shield)
 alarm_set(0,1)
+audio_play_sound(snd_blackhole,8,0);

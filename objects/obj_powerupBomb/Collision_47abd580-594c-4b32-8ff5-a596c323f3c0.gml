@@ -5,4 +5,5 @@ instance_destroy(obj_asteroid);
 instance_destroy(obj_comet);
 instance_destroy(obj_ufo);
 instance_destroy(obj_satellite);
+audio_play_sound(snd_dead2,8,0);
 instance_destroy()

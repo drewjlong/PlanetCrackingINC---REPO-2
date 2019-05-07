@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "07f1f36e-d46e-428b-a8c8-b08360e8db53",
+            "Value": {
+                "id": "a54b26f3-a6e0-4123-92ae-260e5f403dba",
+                "resourcePath": "sounds\\snd_comet\\snd_comet.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "08955a4a-6fda-4f55-b700-b6693889eac8",
             "Value": {
                 "id": "07281ea3-160b-4022-96ed-97aa9b62ac10",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "1797493e-a066-4c02-9078-5114268272bf",
+            "Value": {
+                "id": "0b741231-df1b-4a93-944a-6851e4e3adf3",
+                "resourcePath": "sounds\\snd_supernova\\snd_supernova.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "17cb9962-a772-47b2-87d6-a38bc60face2",
             "Value": {
                 "id": "1af4b2f6-8111-48b6-b395-ee8b54044cce",
@@ -156,6 +172,14 @@
                 "id": "4e1269b5-ddbc-446c-bffe-ee84d21cbf9f",
                 "resourcePath": "objects\\obj_blackholespawner\\obj_blackholespawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1b70d82d-d56b-46e6-80ba-a0f637d8a96a",
+            "Value": {
+                "id": "10c11bf9-bb4d-4327-9214-5061bbff4be4",
+                "resourcePath": "sounds\\snd_blackhole_idle\\snd_blackhole_idle.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -395,6 +419,14 @@
             "Value": {
                 "id": "73388196-2216-4597-9aeb-22f34decfd7d",
                 "resourcePath": "sounds\\snd_dead\\snd_dead.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "43ad8a1d-5c79-44d4-a536-893b7cf9c4f3",
+            "Value": {
+                "id": "f48a268c-84cf-46b2-bcc5-f14ee30b93b8",
+                "resourcePath": "sounds\\snd_collide\\snd_collide.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -887,6 +919,14 @@
             }
         },
         {
+            "Key": "a71719e4-b161-42d3-a263-81ab93a427ae",
+            "Value": {
+                "id": "4bcb2805-4ba4-4766-a729-493e8fb5cbb6",
+                "resourcePath": "sounds\\snd_blackhole\\snd_blackhole.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a8c610ac-9149-4a88-a4b0-927ec1f0e6ac",
             "Value": {
                 "id": "6dc1b05e-f473-486e-9d08-56f0fe3a36b7",
@@ -1076,6 +1116,14 @@
                 "id": "89e503ab-a159-4019-b160-d64616674141",
                 "resourcePath": "objects\\o_planetSpawner\\o_planetSpawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dae818dc-f25f-4bbd-990d-b144cf748dd4",
+            "Value": {
+                "id": "8507efca-bf50-48a9-953d-5eb4cae9540f",
+                "resourcePath": "sounds\\snd_sate\\snd_sate.yy",
+                "resourceType": "GMSound"
             }
         },
         {
