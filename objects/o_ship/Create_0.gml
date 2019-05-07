@@ -6,3 +6,6 @@ numPlanetsHeld = 0;
 audio_play_sound(snd_music2,1,1000);
 audio_pause_sound(snd_intro2);
 global.invincibility=false 
+global.planet1held = 0;
+global.planet2held = 0;
+global.planet3held = 0;

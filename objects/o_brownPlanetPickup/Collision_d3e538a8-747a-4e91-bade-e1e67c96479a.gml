@@ -11,4 +11,5 @@ if (alreadyCollided == false){
 	audio_play_sound(snd_planet_pickup,1,0);
 	alreadyCollided = true
 	room_instance_add(r_win,300,400,obj_score2);
+	global.planet2held += 1;
 }
