@@ -12,6 +12,3 @@ if (alreadyCollided == false){
 	alreadyCollided = true
 	global.planet1held += 1;
 }
-
-
-

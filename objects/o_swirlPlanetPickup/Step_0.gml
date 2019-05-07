@@ -18,6 +18,10 @@ else if (ufoHeld==true){
 	}
 	else instance_destroy()
 }
+else if(blackhole == true) {
+	direction = point_direction(x, y, obj_blackhole.x,obj_blackhole.y);
+	alarm_set(0, 5);
+}
 else{
 	direction = point_direction(x,y,x,y+1000)
 	speed = 1

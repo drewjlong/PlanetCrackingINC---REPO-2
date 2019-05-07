@@ -10,6 +10,7 @@ if(held == true && other.alreadyCollidedPlanet == false && other.hasPlanet == fa
 	other.alreadyCollidedPlanet = true
 	other.hasPlanet = true
 	lastPlanet.alreadyCollided = false
+	global.planet2held -= 1;
 	audio_play_sound(snd_ufograb2,6,0)
 }
 else if(/*held == true && */other.alreadyCollidedPlanet == false && other.hasPlanet = false){
