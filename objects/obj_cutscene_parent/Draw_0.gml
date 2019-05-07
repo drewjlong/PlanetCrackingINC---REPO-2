@@ -2,8 +2,8 @@
 
 draw_self();
 var _margin = 10;
-var _text_x = x + 450;
-var _text_y = y + 350;
+var _text_x = x + 500;
+var _text_y = y + 300;
 var _sep = 35;
 var _text_width = 500;
 var _substring = string_copy(msg,0,char_index);
