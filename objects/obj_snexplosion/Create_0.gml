@@ -1,1 +1,1 @@
-alarm_set(0, 30);
+alarm_set(0, 50);

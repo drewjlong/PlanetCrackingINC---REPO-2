@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "2db12361-6ee7-43c8-b400-e2453702b92b",
+            "Value": {
+                "id": "8c46211d-e6d1-47a4-9039-b02afe395dcf",
+                "resourcePath": "sprites\\spr_powerupBomb\\spr_powerupBomb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3257d2e6-b0e1-457b-b5c1-bf80b990f053",
             "Value": {
                 "id": "ffc7192c-4a89-4dcb-a54d-3eaccbc08f2e",
@@ -492,6 +500,14 @@
                 "id": "fec8b989-1e35-42e5-b763-aa72441529fa",
                 "resourcePath": "sprites\\spr_supernova_stable\\spr_supernova_stable.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ac76be8-1ccf-449a-908e-bcabfc28f71e",
+            "Value": {
+                "id": "d8d3d5f2-66c1-40e1-8498-2ca0287ba8c1",
+                "resourcePath": "objects\\obj_powerupBomb\\obj_powerupBomb.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1084,6 +1100,14 @@
                 "id": "fde82af0-9a3e-44e4-b6b9-28ef79a54c21",
                 "resourcePath": "sprites\\spr_points1\\spr_points1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7770559-1278-4555-9083-e484047fd7ff",
+            "Value": {
+                "id": "028b45a4-0f1d-441b-9721-e3d9c4d9a3f5",
+                "resourcePath": "objects\\obj_bombSpawner\\obj_bombSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
