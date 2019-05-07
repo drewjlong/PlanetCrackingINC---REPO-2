@@ -6,3 +6,4 @@ ufoHeld = false;
 targetUfo = noone;
 lastPlanet = noone;
 alreadyCollided = false;
+blackhole = false;

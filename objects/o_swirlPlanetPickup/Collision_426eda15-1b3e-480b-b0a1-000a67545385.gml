@@ -4,6 +4,5 @@ if(held == true){
 	o_ship.numPlanetsHeld -= 1;
 	audio_play_sound(snd_hit2,1,0);
 } else {
-	direction=point_direction(x,y,obj_blackhole.x,obj_blackhole.y);
-	alarm_set(0,1);
+	instance_destroy();
 }
