@@ -1,8 +1,8 @@
 {
-    "id": "1b70d82d-d56b-46e6-80ba-a0f637d8a96a",
+    "id": "528e178e-dbfe-4f0f-8370-480819b021d5",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_blackhole_idle",
+    "name": "snd_blackholesafe",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.3
+    "volume": 0.12
 }

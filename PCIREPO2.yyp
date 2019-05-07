@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "528e178e-dbfe-4f0f-8370-480819b021d5",
+            "Value": {
+                "id": "cdb70c3c-6783-44ed-a011-b846f6a946ab",
+                "resourcePath": "sounds\\snd_blackholesafe\\snd_blackholesafe.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "52b0e851-ed76-4bc0-ad8e-32625bdb3883",
             "Value": {
                 "id": "dc762941-25e4-44be-91dc-41a77669cb46",
